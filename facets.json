@@ -1,0 +1,560 @@
+{
+  "autorite_emettrice": [
+    {
+      "v": "Valérien",
+      "n": 6071
+    },
+    {
+      "v": "Gallien",
+      "n": 4163
+    },
+    {
+      "v": "Gordien III",
+      "n": 3523
+    },
+    {
+      "v": "Salonine",
+      "n": 1986
+    },
+    {
+      "v": "Philippe I",
+      "n": 1835
+    },
+    {
+      "v": "Sévère Alexandre",
+      "n": 1652
+    },
+    {
+      "v": "Postume",
+      "n": 1083
+    },
+    {
+      "v": "Élagabale",
+      "n": 1040
+    },
+    {
+      "v": "Trébonien Galle",
+      "n": 1000
+    },
+    {
+      "v": "Volusien",
+      "n": 849
+    },
+    {
+      "v": "Trajan Dèce",
+      "n": 827
+    },
+    {
+      "v": "Maximin Ier",
+      "n": 647
+    },
+    {
+      "v": "Salonin",
+      "n": 620
+    },
+    {
+      "v": "Valérien II",
+      "n": 416
+    },
+    {
+      "v": "Claude II",
+      "n": 363
+    },
+    {
+      "v": "Otacilia Severa",
+      "n": 363
+    },
+    {
+      "v": "Herennia Etruscilla",
+      "n": 358
+    },
+    {
+      "v": "Valérien II divinisé",
+      "n": 357
+    },
+    {
+      "v": "Julia Mamaea",
+      "n": 340
+    },
+    {
+      "v": "Divus Valerianus",
+      "n": 333
+    },
+    {
+      "v": "Julia Maesa",
+      "n": 288
+    },
+    {
+      "v": "Philippe II César",
+      "n": 265
+    },
+    {
+      "v": "Mariniane",
+      "n": 258
+    },
+    {
+      "v": "Valérien I",
+      "n": 234
+    },
+    {
+      "v": "Septime Sévère",
+      "n": 165
+    },
+    {
+      "v": "Herennius Etruscus",
+      "n": 155
+    },
+    {
+      "v": "Caracalla",
+      "n": 147
+    },
+    {
+      "v": "Philippe II Auguste",
+      "n": 147
+    },
+    {
+      "v": "Émilien",
+      "n": 107
+    },
+    {
+      "v": "Tétricus I",
+      "n": 80
+    },
+    {
+      "v": "Julia Soaemias",
+      "n": 78
+    },
+    {
+      "v": "Victorin",
+      "n": 72
+    },
+    {
+      "v": "Tetricus I",
+      "n": 58
+    },
+    {
+      "v": "Julia Domna",
+      "n": 56
+    },
+    {
+      "v": "Julia Paula",
+      "n": 52
+    },
+    {
+      "v": "Hostilien",
+      "n": 45
+    },
+    {
+      "v": "Indéterminé",
+      "n": 45
+    },
+    {
+      "v": "Aurélien",
+      "n": 33
+    },
+    {
+      "v": "Tetricus II",
+      "n": 33
+    },
+    {
+      "v": "Balbin",
+      "n": 31
+    },
+    {
+      "v": "Règne commun Valérien I / Gallien",
+      "n": 29
+    },
+    {
+      "v": "Géta",
+      "n": 25
+    },
+    {
+      "v": "Quintillus",
+      "n": 25
+    },
+    {
+      "v": "Pupien",
+      "n": 24
+    },
+    {
+      "v": "Maxime César",
+      "n": 22
+    },
+    {
+      "v": "Orbiana",
+      "n": 20
+    },
+    {
+      "v": "Victorinus",
+      "n": 20
+    },
+    {
+      "v": "Philippe II",
+      "n": 18
+    },
+    {
+      "v": "Tétricus II",
+      "n": 15
+    },
+    {
+      "v": "Divus Pius",
+      "n": 12
+    },
+    {
+      "v": "Macrin",
+      "n": 12
+    },
+    {
+      "v": "Divus Augustus",
+      "n": 11
+    },
+    {
+      "v": "Divus Vespasianus",
+      "n": 10
+    },
+    {
+      "v": "Aquilia Severa",
+      "n": 9
+    },
+    {
+      "v": "Divo Claudio",
+      "n": 9
+    },
+    {
+      "v": "Paulina",
+      "n": 9
+    },
+    {
+      "v": "Divus Alexander",
+      "n": 8
+    },
+    {
+      "v": "Victorin/Tétricus I",
+      "n": 6
+    },
+    {
+      "v": "Clodius Albinus",
+      "n": 5
+    },
+    {
+      "v": "Divo Clavdio",
+      "n": 5
+    },
+    {
+      "v": "Claude II (Divo)",
+      "n": 4
+    },
+    {
+      "v": "Divus Traianus",
+      "n": 4
+    },
+    {
+      "v": "Elagabale",
+      "n": 4
+    },
+    {
+      "v": "Gordien I",
+      "n": 4
+    },
+    {
+      "v": "Gordien III César",
+      "n": 4
+    },
+    {
+      "v": "Quintillus/Aurélien",
+      "n": 4
+    },
+    {
+      "v": "Tetricus I ou Tetricus II",
+      "n": 4
+    },
+    {
+      "v": "Trajan",
+      "n": 4
+    },
+    {
+      "v": "Divus Titus",
+      "n": 3
+    },
+    {
+      "v": "Gordien II",
+      "n": 3
+    },
+    {
+      "v": "Marc Aurèle",
+      "n": 3
+    },
+    {
+      "v": "Plautilla",
+      "n": 3
+    },
+    {
+      "v": "Victorinus/Tétricus I",
+      "n": 3
+    },
+    {
+      "v": "Diaduménien",
+      "n": 2
+    },
+    {
+      "v": "Divus Hadrianus",
+      "n": 2
+    },
+    {
+      "v": "Divus Nerva",
+      "n": 2
+    },
+    {
+      "v": "Domitien",
+      "n": 2
+    },
+    {
+      "v": "Emilien",
+      "n": 2
+    },
+    {
+      "v": "Etruscille",
+      "n": 2
+    },
+    {
+      "v": "Faustine l'Ancienne",
+      "n": 2
+    },
+    {
+      "v": "Antonin le Pieux",
+      "n": 1
+    },
+    {
+      "v": "Auguste",
+      "n": 1
+    },
+    {
+      "v": "Claude II ?",
+      "n": 1
+    },
+    {
+      "v": "Claudius Gothicus",
+      "n": 1
+    },
+    {
+      "v": "Commode",
+      "n": 1
+    },
+    {
+      "v": "Cornelia Supera",
+      "n": 1
+    },
+    {
+      "v": "Divus Commodus",
+      "n": 1
+    },
+    {
+      "v": "Divus Marcus",
+      "n": 1
+    },
+    {
+      "v": "Divus Severus",
+      "n": 1
+    },
+    {
+      "v": "Divus Valerianus Caesar",
+      "n": 1
+    },
+    {
+      "v": "Empereur gaulois",
+      "n": 1
+    },
+    {
+      "v": "Germanicus",
+      "n": 1
+    },
+    {
+      "v": "Lucius Vérus",
+      "n": 1
+    },
+    {
+      "v": "Macrien II",
+      "n": 1
+    },
+    {
+      "v": "Marius",
+      "n": 1
+    },
+    {
+      "v": "Quietus",
+      "n": 1
+    },
+    {
+      "v": "Titus",
+      "n": 1
+    },
+    {
+      "v": "Tétricus I ou Victorin",
+      "n": 1
+    }
+  ],
+  "denomination": [
+    {
+      "v": "antoninien",
+      "n": 25705
+    },
+    {
+      "v": "denier",
+      "n": 4751
+    },
+    {
+      "v": "Aureus",
+      "n": 47
+    },
+    {
+      "v": "As",
+      "n": 35
+    },
+    {
+      "v": "Denier/Anton",
+      "n": 8
+    },
+    {
+      "v": "Sesterce",
+      "n": 4
+    },
+    {
+      "v": "Dupondius",
+      "n": 4
+    },
+    {
+      "v": "Médaillon",
+      "n": 1
+    },
+    {
+      "v": "Bronze",
+      "n": 1
+    }
+  ],
+  "materiau": [
+    {
+      "v": "Argent",
+      "n": 28051
+    },
+    {
+      "v": "bronze",
+      "n": 585
+    },
+    {
+      "v": "billon",
+      "n": 177
+    },
+    {
+      "v": "or",
+      "n": 47
+    }
+  ],
+  "atelier": [
+    {
+      "v": "Rome",
+      "n": 23028
+    },
+    {
+      "v": "Cologne",
+      "n": 5318
+    },
+    {
+      "v": "Antioche",
+      "n": 571
+    },
+    {
+      "v": "Viminacium",
+      "n": 286
+    },
+    {
+      "v": "Milan",
+      "n": 228
+    },
+    {
+      "v": "Samosate",
+      "n": 225
+    },
+    {
+      "v": "Indéterminé",
+      "n": 139
+    },
+    {
+      "v": "Trèves",
+      "n": 78
+    },
+    {
+      "v": "Sud Gaule",
+      "n": 75
+    },
+    {
+      "v": "Atelier clandestin",
+      "n": 26
+    },
+    {
+      "v": "Ateliers orientaux",
+      "n": 24
+    },
+    {
+      "v": "Sans marque d'officine",
+      "n": 19
+    },
+    {
+      "v": "Siscia",
+      "n": 18
+    },
+    {
+      "v": "Laodicée",
+      "n": 15
+    },
+    {
+      "v": "Atelier II",
+      "n": 11
+    },
+    {
+      "v": "Atelier I",
+      "n": 10
+    },
+    {
+      "v": "Émèse",
+      "n": 9
+    },
+    {
+      "v": "Atelier asiatique",
+      "n": 4
+    },
+    {
+      "v": "Ateliers d'Asie",
+      "n": 4
+    },
+    {
+      "v": "Lugdunum",
+      "n": 3
+    },
+    {
+      "v": "Rome ou Lugdunum",
+      "n": 3
+    },
+    {
+      "v": "Sirmium",
+      "n": 3
+    },
+    {
+      "v": "Césarée de Cappadoce",
+      "n": 1
+    }
+  ],
+  "imitation": [
+    {
+      "v": "non",
+      "n": 1656
+    },
+    {
+      "v": "oui",
+      "n": 145
+    },
+    {
+      "v": "Indéterminé",
+      "n": 51
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "total_monnaies": 30558,
+  "total_depots": 11,
+  "total_autorites": 98,
+  "total_ateliers": 23,
+  "top_autorites": [
+    {
+      "l": "Valérien",
+      "n": 6071
+    },
+    {
+      "l": "Gallien",
+      "n": 4163
+    },
+    {
+      "l": "Gordien III",
+      "n": 3523
+    },
+    {
+      "l": "Salonine",
+      "n": 1986
+    },
+    {
+      "l": "Philippe I",
+      "n": 1835
+    },
+    {
+      "l": "Sévère Alexandre",
+      "n": 1652
+    },
+    {
+      "l": "Postume",
+      "n": 1083
+    },
+    {
+      "l": "Élagabale",
+      "n": 1040
+    },
+    {
+      "l": "Trébonien Galle",
+      "n": 1000
+    },
+    {
+      "l": "Volusien",
+      "n": 849
+    }
+  ],
+  "top_ateliers": [
+    {
+      "l": "Rome",
+      "n": 23028
+    },
+    {
+      "l": "Cologne",
+      "n": 5318
+    },
+    {
+      "l": "Antioche",
+      "n": 571
+    },
+    {
+      "l": "Viminacium",
+      "n": 286
+    },
+    {
+      "l": "Milan",
+      "n": 228
+    },
+    {
+      "l": "Samosate",
+      "n": 225
+    },
+    {
+      "l": "Indéterminé",
+      "n": 139
+    },
+    {
+      "l": "Trèves",
+      "n": 78
+    }
+  ],
+  "par_depot": [
+    {
+      "l": "Trésor d'Eauze",
+      "n": 28054
+    },
+    {
+      "l": "Antin",
+      "n": 690
+    },
+    {
+      "l": "Preignac",
+      "n": 494
+    },
+    {
+      "l": "Bergès II",
+      "n": 454
+    },
+    {
+      "l": "Vic en Bigorre",
+      "n": 395
+    },
+    {
+      "l": "Saint Lézer",
+      "n": 177
+    },
+    {
+      "l": "Lesca II",
+      "n": 94
+    },
+    {
+      "l": "Lalonquette",
+      "n": 78
+    },
+    {
+      "l": "Fournier",
+      "n": 55
+    },
+    {
+      "l": "Bordeaux I",
+      "n": 41
+    },
+    {
+      "l": "Escoussans",
+      "n": 26
+    }
+  ]
+}

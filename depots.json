@@ -1,0 +1,90 @@
+[
+  {
+    "id_depot": 11,
+    "departement": "Gers",
+    "commune": "Eauze",
+    "depot": "Trésor d'Eauze",
+    "lieux_decouverte": "Zone proche \"Domus Ciutat\"",
+    "nb_monnaies": 28054
+  },
+  {
+    "id_depot": 4,
+    "departement": "Hautes-Pyrénées",
+    "commune": "Antin",
+    "depot": "Antin",
+    "lieux_decouverte": null,
+    "nb_monnaies": 690
+  },
+  {
+    "id_depot": 9,
+    "departement": "Gironde",
+    "commune": "Preignac",
+    "depot": "Preignac",
+    "lieux_decouverte": null,
+    "nb_monnaies": 494
+  },
+  {
+    "id_depot": 1,
+    "departement": "Haute-Garonne",
+    "commune": "Cazères",
+    "depot": "Bergès II",
+    "lieux_decouverte": null,
+    "nb_monnaies": 454
+  },
+  {
+    "id_depot": 6,
+    "departement": "Hautes-Pyrénées",
+    "commune": "Vic en Bigorre",
+    "depot": "Vic en Bigorre",
+    "lieux_decouverte": null,
+    "nb_monnaies": 395
+  },
+  {
+    "id_depot": 10,
+    "departement": "Hautes-Pyrénées",
+    "commune": "Saint Lézer",
+    "depot": "Saint Lézer",
+    "lieux_decouverte": "Castrum Bigorra",
+    "nb_monnaies": 177
+  },
+  {
+    "id_depot": 3,
+    "departement": "Gers",
+    "commune": "Eauze",
+    "depot": "Lesca II",
+    "lieux_decouverte": null,
+    "nb_monnaies": 94
+  },
+  {
+    "id_depot": 5,
+    "departement": "Pyrénées-Atlantiques",
+    "commune": "Lalonquette",
+    "depot": "Lalonquette",
+    "lieux_decouverte": "jonction parcelle 527/27/32 | parcelles 20, 27 et 32 | jonction 527/27/32 | LAL04",
+    "nb_monnaies": 78
+  },
+  {
+    "id_depot": 2,
+    "departement": "Haute-Garonne",
+    "commune": "Cazères",
+    "depot": "Fournier",
+    "lieux_decouverte": null,
+    "nb_monnaies": 55
+  },
+  {
+    "id_depot": 8,
+    "departement": "Gironde",
+    "commune": "Bordeaux",
+    "depot": "Bordeaux I",
+    "lieux_decouverte": "place du théâtre français et rue Bonaparte (ancienne rue de l'Intendance)",
+    "nb_monnaies": 41
+  },
+  {
+    "id_depot": 7,
+    "departement": "Gironde",
+    "commune": "Escoussans",
+    "depot": "Escoussans",
+    "lieux_decouverte": null,
+    "nb_monnaies": 26
+  }
+]
